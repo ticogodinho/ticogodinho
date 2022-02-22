@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ticogodinho
+- 👀 I’m interested in learning new things, movies, law and sports
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects that develop my skills
+- 📫 Send me a email: luizguilhermecgodinho@gmail.com
